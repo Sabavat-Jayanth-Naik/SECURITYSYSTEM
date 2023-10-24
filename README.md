@@ -1,6 +1,9 @@
 # SECURITYSYSTEM
 The security system serves as a protective barrier between the client and the system, helping to prevent potential threats. It also provides authentication measures to ensure that only authorized users are granted access to the system.
 The security system encompasses essential functionalities like user registration, login, password change, and password recovery. It also includes features such as addressing the user by their name after a successful login and clearing the screen in a manner that is compatible with various platforms. These elements enhance user experience and ensure a secure and user-friendly system.
+
+
+
 Program flow.
 
 1. **Start**: The program begins execution.

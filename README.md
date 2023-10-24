@@ -36,3 +36,17 @@ Program flow.
 12. **End**: The program exits when the user selects "End Session."
 
 This flow diagram outlines the main interactions and logic of the program, helping users understand its operation.
+<h1>The interface of the program</h1>
+<img width="960" alt="Screenshot 2023-10-24 104551" src="https://github.com/Sabavat-Jayanth-Naik/SECURITYSYSTEM/assets/130920035/a7cc4eee-795f-4d52-a9ce-3b6c34458b3d">
+<img width="960" alt="Screenshot 2023-10-24 104652" src="https://github.com/Sabavat-Jayanth-Naik/SECURITYSYSTEM/assets/130920035/eafc80d6-bfa9-428e-8884-046b9b1809de">
+<img width="960" alt="Screenshot 2023-10-24 104845" src="https://github.com/Sabavat-Jayanth-Naik/SECURITYSYSTEM/assets/130920035/1f16c67d-df0b-4492-a1bf-c58e7824cbd0">
+<img width="960" alt="Screenshot 2023-10-24 105037" src="https://github.com/Sabavat-Jayanth-Naik/SECURITYSYSTEM/assets/130920035/09b0820a-af01-474f-8827-dedd7fa45b47">
+<img width="960" alt="Screenshot 2023-10-24 104947" src="https://github.com/Sabavat-Jayanth-Naik/SECURITYSYSTEM/assets/130920035/af767df0-196e-4aa3-bae3-0e836a2aa48b">
+
+
+
+<h1>The UML daigram</h1>
+![mermaid-diagram-2023-10-24-071604](https://github.com/Sabavat-Jayanth-Naik/SECURITYSYSTEM/assets/130920035/2e382068-3530-412e-bba2-e0eeaffc3590)
+
+
+
